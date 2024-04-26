@@ -1,0 +1,27 @@
+.content{
+    width: 90%;
+    margin: auto;
+    background-color: rgb(233, 233, 233);
+}
+.card-img-top{
+    height: 280px;
+    width:100%;
+    object-fit: cover;
+    object-position: center;
+    
+}
+.book {
+    height: 100%;
+    width: 60%;
+    margin-left: 100px;
+}
+
+.bookdiv {
+    width: 85%;
+    margin: auto;
+}
+
+
+.sdow {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
